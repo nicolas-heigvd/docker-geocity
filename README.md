@@ -16,3 +16,4 @@ In your project repository:
 
 When you publish a new release, the github actions event will be triggered and publish a new image to dockerhub.
 
+[Monitor the publication of your image](https://github.com/yverdon/docker-geocity/actions?query=workflow%3A%22Publish+Geocity+Base%22)
