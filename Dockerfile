@@ -1,4 +1,4 @@
-FROM osgeo/gdal:ubuntu-small-3.3.0
+FROM osgeo/gdal:ubuntu-small-3.6.3
 
 RUN apt-get update
 RUN apt-get install gettext python3-pip -y && \
